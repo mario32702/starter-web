@@ -6,7 +6,8 @@
     <!-- Most restrictive policy: -->
     <site-control permitted-cross-domain-policies="none"/>
     <!-- Test: -->
-    <!-- Least restrictive policy!: -->
+    <!-- Test -->	    
+<!-- Least restrictive policy!: -->
     <!--
     <site-control permitted-cross-domain-policies="all"/>
     <allow-access-from domain="*" to-ports="*" secure="false"/>
