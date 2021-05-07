@@ -8,7 +8,7 @@ Jason Taylor	jason@git.training	@awesome
 
 # THANKS
 
-    <name>
+    All my students<name>
 
 # TECHNOLOGY COLOPHON
 
