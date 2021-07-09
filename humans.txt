@@ -9,6 +9,9 @@ Jason Taylor	jason@git.training	@awesome
 # THANKS
 
     All my students<name>
+Just a change
+
+Allrights reserved
 
 # TECHNOLOGY COLOPHON
 
