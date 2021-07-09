@@ -22,4 +22,4 @@ Please fork this repository and then issue pull requests for review.
 ### Copyright
 
 git. Training
-All rights reserved
+Still all rights reserved (second Stash example)
