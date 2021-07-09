@@ -17,3 +17,7 @@ Allrights reserved
 
     HTML5, CSS3
     jQuery, Modernizr
+    nextJS
+    react
+    Git
+    Github
